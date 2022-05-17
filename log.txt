@@ -1,0 +1,794 @@
+( 01/05/2022 18:15:04 ) Program Started
+
+( 01/05/2022 18:15:04 ) The way the program deals with it has been chosen: Consol
+
+( 01/05/2022 18:15:04 ) The type of pizza has been selected :Mamamia
+
+( 01/05/2022 18:15:04 ) The Size and Deep of Pizza has been chosenmedium,pan
+
+( 01/05/2022 18:15:04 ) The # of Slice has been selected:4
+
+( 01/05/2022 18:15:04 ) The Drink has been selected
+
+( 01/05/2022 18:37:33 ) Program Started
+
+( 01/05/2022 18:37:33 ) The way the program deals with it has been chosen: Consol
+
+( 01/05/2022 18:37:49 ) Program Started
+
+( 01/05/2022 18:37:49 ) The way the program deals with it has been chosen: InterFace
+
+( 01/05/2022 18:37:49 ) Selssect From Menu
+
+( 01/05/2022 18:37:49 ) The Drink has been selected
+
+( 01/05/2022 18:37:49 ) The type of pizza has been selected :Vegetables
+
+( 01/05/2022 18:37:49 ) The Size and Deep of Pizza has been chosen large,dish
+
+( 01/05/2022 18:37:49 ) The # of Slice has been selected10
+
+( 01/05/2022 18:41:37 ) Program Started
+
+( 01/05/2022 18:41:37 ) The way the program deals with it has been chosen: Consol
+
+( 01/05/2022 18:42:46 ) Program Started
+
+( 01/05/2022 18:42:46 ) The way the program deals with it has been chosen: InterFace
+
+( 01/05/2022 18:42:46 ) Select From Menu
+
+( 01/05/2022 18:42:46 ) The Drink has been selected
+
+( 01/05/2022 18:42:46 ) The type of pizza has been selected :Margharita
+
+( 01/05/2022 18:42:46 ) The Size and Deep of Pizza has been chosen medium,dish
+
+( 01/05/2022 18:42:46 ) The # of Slice has been selected 8
+
+( 01/05/2022 18:42:46 ) New Order
+
+( 01/05/2022 18:42:46 ) The Drink has been selected
+
+( 01/05/2022 18:42:46 ) The type of pizza has been selected :Cipolla
+
+( 01/05/2022 18:42:46 ) The Size and Deep of Pizza has been chosen small,pan
+
+( 01/05/2022 18:42:46 ) The # of Slice has been selected 6
+
+( 01/05/2022 22:51:02 ) Program Started
+
+( 01/05/2022 23:44:48 ) Program Started
+
+( 01/05/2022 23:44:48 ) The way the program deals with it has been chosen: Consol
+
+( 01/05/2022 23:44:48 ) New Order
+
+( 01/05/2022 23:44:48 ) The type of pizza has been selected :Chicken
+
+( 01/05/2022 23:44:48 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 01/05/2022 23:44:48 ) The # of Slice has been selected:6
+
+( 01/05/2022 23:45:24 ) Program Started
+
+( 01/05/2022 23:45:24 ) The way the program deals with it has been chosen: Consol
+
+( 01/05/2022 23:45:24 ) New Order
+
+( 01/05/2022 23:45:24 ) The type of pizza has been selected :Marinara
+
+( 01/05/2022 23:45:24 ) The Size and Deep of Pizza has been chosen large,pan
+
+( 01/05/2022 23:45:24 ) The # of Slice has been selected:6
+
+( 01/05/2022 23:45:24 ) The Drink has been selected
+
+( 02/05/2022 00:06:36 ) Program Started
+
+( 02/05/2022 00:06:36 ) The way the program deals with it has been chosen: Consol
+
+( 02/05/2022 00:06:36 ) New Order
+
+( 02/05/2022 00:06:36 ) The type of pizza has been selected :Mamamia
+
+( 02/05/2022 00:06:36 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 02/05/2022 00:06:36 ) The # of Slice has been selected:10
+
+( 02/05/2022 00:06:36 ) The Drink has been selected
+
+( 02/05/2022 00:08:15 ) Program Started
+
+( 02/05/2022 00:08:15 ) The way the program deals with it has been chosen: Consol
+
+( 02/05/2022 00:08:15 ) New Order
+
+( 02/05/2022 00:08:15 ) The type of pizza has been selected :Chicken
+
+( 02/05/2022 00:08:15 ) The Size and Deep of Pizza has been chosen large,pan
+
+( 02/05/2022 00:08:15 ) The # of Slice has been selected:10
+
+( 02/05/2022 00:15:33 ) Program Started
+
+( 02/05/2022 00:15:33 ) The way the program deals with it has been chosen: Consol
+
+( 02/05/2022 00:15:33 ) New Order
+
+( 02/05/2022 00:15:33 ) The type of pizza has been selected :Chicken
+
+( 02/05/2022 00:15:33 ) The Size and Deep of Pizza has been chosen large,pan
+
+( 02/05/2022 00:15:33 ) The # of Slice has been selected:10
+
+( 02/05/2022 00:19:58 ) Program Started
+
+( 02/05/2022 00:19:58 ) The way the program deals with it has been chosen: Consol
+
+( 02/05/2022 00:19:58 ) New Order
+
+( 02/05/2022 00:19:58 ) The type of pizza has been selected :Cipolla
+
+( 02/05/2022 00:19:58 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 02/05/2022 00:19:58 ) The # of Slice has been selected:4
+
+( 02/05/2022 00:20:45 ) Program Started
+
+( 02/05/2022 00:20:45 ) The way the program deals with it has been chosen: Consol
+
+( 02/05/2022 00:20:45 ) New Order
+
+( 02/05/2022 00:20:45 ) The type of pizza has been selected :Chicken
+
+( 02/05/2022 00:20:45 ) The Size and Deep of Pizza has been chosen large,pan
+
+( 02/05/2022 00:20:45 ) The # of Slice has been selected:10
+
+( 02/05/2022 00:20:45 ) The Drink has been selected
+
+( 02/05/2022 00:23:32 ) Program Started
+
+( 02/05/2022 00:23:32 ) The way the program deals with it has been chosen: Consol
+
+( 02/05/2022 00:23:32 ) New Order
+
+( 02/05/2022 00:23:32 ) The type of pizza has been selected :Chicken
+
+( 02/05/2022 00:23:32 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 02/05/2022 00:23:32 ) The # of Slice has been selected:10
+
+( 02/05/2022 00:27:33 ) Program Started
+
+( 02/05/2022 00:27:33 ) The way the program deals with it has been chosen: Consol
+
+( 02/05/2022 00:27:33 ) New Order
+
+( 02/05/2022 00:27:33 ) The type of pizza has been selected :Mamamia
+
+( 02/05/2022 00:27:33 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 02/05/2022 00:27:33 ) The # of Slice has been selected:8
+
+( 02/05/2022 00:31:18 ) Program Started
+
+( 02/05/2022 00:31:18 ) The way the program deals with it has been chosen: InterFace
+
+( 02/05/2022 00:31:18 ) Select From Menu
+
+( 02/05/2022 00:31:18 ) The Drink has been selected
+
+( 02/05/2022 00:31:18 ) The type of pizza has been selected :Margharita
+
+( 02/05/2022 00:31:18 ) The Size and Deep of Pizza has been chosen large,dish
+
+( 02/05/2022 00:31:18 ) The # of Slice has been selected 6
+
+( 02/05/2022 00:31:18 ) Exit
+
+( 05/05/2022 07:45:25 ) Program Started
+
+( 05/05/2022 07:45:25 ) The way the program deals with it has been chosen: InterFace
+
+( 05/05/2022 07:45:25 ) Select From Menu
+
+( 05/05/2022 07:45:25 ) The Drink has been selected
+
+( 05/05/2022 07:45:25 ) The type of pizza has been selected :Margharita
+
+( 05/05/2022 07:45:25 ) The Size and Deep of Pizza has been chosen medium,dish
+
+( 05/05/2022 07:45:25 ) The # of Slice has been selected 8
+
+( 05/05/2022 07:45:25 ) New Order
+
+( 05/05/2022 07:46:26 ) Program Started
+
+( 05/05/2022 07:46:26 ) The way the program deals with it has been chosen: InterFace
+
+( 05/05/2022 07:46:26 ) Select From Menu
+
+( 05/05/2022 07:46:26 ) The Drink has been selected
+
+( 05/05/2022 07:46:26 ) The type of pizza has been selected :Chicken
+
+( 05/05/2022 07:46:26 ) The Size and Deep of Pizza has been chosen small,dish
+
+( 05/05/2022 07:46:26 ) The # of Slice has been selected 6
+
+( 05/05/2022 07:46:26 ) New Order
+
+( 05/05/2022 07:46:26 ) The Drink has been selected
+
+( 05/05/2022 07:46:26 ) The type of pizza has been selected :Margharita
+
+( 05/05/2022 07:46:26 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 05/05/2022 07:46:26 ) The # of Slice has been selected 8
+
+( 05/05/2022 14:09:41 ) The Drink has been selected
+
+( 05/05/2022 14:09:41 ) The type of pizza has been selected :Mamamia
+
+( 05/05/2022 14:09:41 ) The Size and Deep of Pizza has been chosen large,dish
+
+( 05/05/2022 14:09:41 ) The # of Slice has been selected 6
+
+( 05/05/2022 14:09:41 ) New Order
+
+( 05/05/2022 14:11:22 ) Program Started
+
+( 05/05/2022 14:11:22 ) The way the program deals with it has been chosen: InterFace
+
+( 05/05/2022 14:11:22 ) Select From Menu
+
+( 05/05/2022 14:11:22 ) The Drink has been selected
+
+( 05/05/2022 14:11:22 ) The type of pizza has been selected :Chicken
+
+( 05/05/2022 14:11:22 ) The Size and Deep of Pizza has been chosen large,dish
+
+( 05/05/2022 14:11:22 ) The # of Slice has been selected 8
+
+( 05/05/2022 14:13:15 ) The Drink has been selected
+
+( 05/05/2022 14:13:15 ) The type of pizza has been selected :Mamamia
+
+( 05/05/2022 14:13:15 ) The Size and Deep of Pizza has been chosen large,dish
+
+( 05/05/2022 14:13:15 ) The # of Slice has been selected 8
+
+( 05/05/2022 14:14:06 ) Program Started
+
+( 05/05/2022 14:14:06 ) The way the program deals with it has been chosen: InterFace
+
+( 05/05/2022 14:14:06 ) Select From Menu
+
+( 05/05/2022 14:14:06 ) The Drink has been selected
+
+( 05/05/2022 14:14:06 ) The type of pizza has been selected :Chicken
+
+( 05/05/2022 14:14:06 ) The Size and Deep of Pizza has been chosen large,dish
+
+( 05/05/2022 14:14:06 ) The # of Slice has been selected 8
+
+( 05/05/2022 14:14:06 ) New Order
+
+( 05/05/2022 14:14:06 ) The type of pizza has been selected :Margharita
+
+( 05/05/2022 14:14:06 ) The Size and Deep of Pizza has been chosen medium,dish
+
+( 05/05/2022 14:14:06 ) The # of Slice has been selected 4
+
+( 05/05/2022 14:15:31 ) Program Started
+
+( 05/05/2022 14:13:15 ) New Order
+
+( 05/05/2022 14:13:15 ) The Drink has been selected
+
+( 05/05/2022 14:13:15 ) The type of pizza has been selected :Cipolla
+
+( 05/05/2022 14:13:15 ) The Size and Deep of Pizza has been chosen small,dish
+
+( 05/05/2022 14:13:15 ) The # of Slice has been selected 4
+
+( 05/05/2022 21:45:49 ) Program Started
+
+( 05/05/2022 21:45:49 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 21:45:49 ) New Order
+
+( 05/05/2022 21:45:49 ) The type of pizza has been selected :Cipolla
+
+( 05/05/2022 21:45:49 ) The Size and Deep of Pizza has been chosen small,pan
+
+( 05/05/2022 21:45:49 ) The # of Slice has been selected:8
+
+( 05/05/2022 21:47:43 ) Program Started
+
+( 05/05/2022 21:47:43 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 21:47:43 ) New Order
+
+( 05/05/2022 21:47:43 ) The type of pizza has been selected :Vegetables
+
+( 05/05/2022 21:47:43 ) The Size and Deep of Pizza has been chosen small,dish
+
+( 05/05/2022 21:47:43 ) The # of Slice has been selected:8
+
+( 05/05/2022 21:48:40 ) Program Started
+
+( 05/05/2022 21:48:40 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 21:48:40 ) New Order
+
+( 05/05/2022 21:48:40 ) The type of pizza has been selected :Mamamia
+
+( 05/05/2022 21:48:40 ) The Size and Deep of Pizza has been chosen large,pan
+
+( 05/05/2022 21:48:40 ) The # of Slice has been selected:6
+
+( 05/05/2022 21:48:40 ) The Drink has been selected
+
+( 05/05/2022 21:49:45 ) Program Started
+
+( 05/05/2022 21:49:45 ) The way the program deals with it has been chosen: InterFace
+
+( 05/05/2022 21:49:45 ) Select From Menu
+
+( 05/05/2022 21:49:45 ) The Drink has been selected
+
+( 05/05/2022 21:49:45 ) The type of pizza has been selected :Margharita
+
+( 05/05/2022 21:49:45 ) The Size and Deep of Pizza has been chosen small,dish
+
+( 05/05/2022 21:49:45 ) The # of Slice has been selected 8
+
+( 05/05/2022 22:08:16 ) Program Started
+
+( 05/05/2022 22:08:16 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:08:16 ) New Order
+
+( 05/05/2022 22:08:16 ) The type of pizza has been selected :Margharita
+
+( 05/05/2022 22:08:16 ) The Size and Deep of Pizza has been chosen large,dish
+
+( 05/05/2022 22:08:16 ) The # of Slice has been selected:6
+
+( 05/05/2022 22:08:16 ) The Drink has been selected
+
+( 05/05/2022 22:10:54 ) Program Started
+
+( 05/05/2022 22:10:54 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:10:54 ) New Order
+
+( 05/05/2022 22:10:54 ) The type of pizza has been selected :Marinara
+
+( 05/05/2022 22:10:54 ) The Size and Deep of Pizza has been chosen small,pan
+
+( 05/05/2022 22:10:54 ) The # of Slice has been selected:6
+
+( 05/05/2022 22:11:33 ) Program Started
+
+( 05/05/2022 22:11:33 ) The way the program deals with it has been chosen: InterFace
+
+( 05/05/2022 22:11:33 ) Select From Menu
+
+( 05/05/2022 22:11:33 ) The Drink has been selected
+
+( 05/05/2022 22:11:33 ) The type of pizza has been selected :Margharita
+
+( 05/05/2022 22:11:33 ) The Size and Deep of Pizza has been chosen medium,dish
+
+( 05/05/2022 22:11:33 ) The # of Slice has been selected 10
+
+( 05/05/2022 22:12:17 ) Program Started
+
+( 05/05/2022 22:12:17 ) The way the program deals with it has been chosen: InterFace
+
+( 05/05/2022 22:12:17 ) Show The Menu 
+
+( 05/05/2022 22:12:17 ) Select From Menu
+
+( 05/05/2022 22:15:17 ) Program Started
+
+( 05/05/2022 22:15:17 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:15:17 ) New Order
+
+( 05/05/2022 22:15:17 ) The type of pizza has been selected :Marinara
+
+( 05/05/2022 22:15:17 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 05/05/2022 22:15:17 ) The # of Slice has been selected:4
+
+( 05/05/2022 22:19:28 ) Program Started
+
+( 05/05/2022 22:19:28 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:19:28 ) New Order
+
+( 05/05/2022 22:19:28 ) The type of pizza has been selected :Chicken
+
+( 05/05/2022 22:19:28 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 05/05/2022 22:19:28 ) The # of Slice has been selected:4
+
+( 05/05/2022 22:19:28 ) The Drink has been selected
+
+( 05/05/2022 22:20:22 ) Program Started
+
+( 05/05/2022 22:20:22 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:20:22 ) New Order
+
+( 05/05/2022 22:20:22 ) The type of pizza has been selected :Vegetables
+
+( 05/05/2022 22:20:22 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 05/05/2022 22:20:22 ) The # of Slice has been selected:6
+
+( 05/05/2022 22:20:22 ) The Drink has been selected
+
+( 05/05/2022 22:21:12 ) Program Started
+
+( 05/05/2022 22:21:22 ) Program Started
+
+( 05/05/2022 22:21:22 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:21:22 ) New Order
+
+( 05/05/2022 22:21:22 ) The type of pizza has been selected :Vegetables
+
+( 05/05/2022 22:21:22 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 05/05/2022 22:21:22 ) The # of Slice has been selected:8
+
+( 05/05/2022 22:22:16 ) Program Started
+
+( 05/05/2022 22:22:16 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:22:16 ) New Order
+
+( 05/05/2022 22:22:16 ) The type of pizza has been selected :Mamamia
+
+( 05/05/2022 22:22:16 ) The Size and Deep of Pizza has been chosen small,dish
+
+( 05/05/2022 22:22:16 ) The # of Slice has been selected:4
+
+( 05/05/2022 22:22:16 ) The Drink has been selected
+
+( 05/05/2022 22:23:23 ) Program Started
+
+( 05/05/2022 22:23:23 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:23:23 ) New Order
+
+( 05/05/2022 22:23:23 ) The type of pizza has been selected :Mamamia
+
+( 05/05/2022 22:23:23 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 05/05/2022 22:23:23 ) The # of Slice has been selected:6
+
+( 05/05/2022 22:23:23 ) The Drink has been selected
+
+( 05/05/2022 22:23:23 ) New Order
+
+( 05/05/2022 22:23:23 ) The type of pizza has been selected :Mamamia
+
+( 05/05/2022 22:23:23 ) The Size and Deep of Pizza has been chosen large,pan
+
+( 05/05/2022 22:23:23 ) The # of Slice has been selected:10
+
+( 05/05/2022 22:23:23 ) The Drink has been selected
+
+( 05/05/2022 22:24:53 ) Program Started
+
+( 05/05/2022 22:24:53 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:24:53 ) New Order
+
+( 05/05/2022 22:24:53 ) The type of pizza has been selected :Cipolla
+
+( 05/05/2022 22:24:53 ) The Size and Deep of Pizza has been chosen small,dish
+
+( 05/05/2022 22:24:53 ) The # of Slice has been selected:4
+
+( 05/05/2022 22:25:58 ) Program Started
+
+( 05/05/2022 22:25:58 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:25:58 ) New Order
+
+( 05/05/2022 22:25:58 ) The type of pizza has been selected :Mamamia
+
+( 05/05/2022 22:25:58 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 05/05/2022 22:25:58 ) The # of Slice has been selected:6
+
+( 05/05/2022 22:25:58 ) The Drink has been selected
+
+( 05/05/2022 22:26:36 ) Program Started
+
+( 05/05/2022 22:26:36 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:26:36 ) New Order
+
+( 05/05/2022 22:26:36 ) The type of pizza has been selected :Vegetables
+
+( 05/05/2022 22:26:36 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 05/05/2022 22:26:36 ) The # of Slice has been selected:8
+
+( 05/05/2022 22:26:36 ) The Drink has been selected
+
+( 05/05/2022 22:26:36 ) New Order
+
+( 05/05/2022 22:26:36 ) The type of pizza has been selected :Chicken
+
+( 05/05/2022 22:26:36 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 05/05/2022 22:26:36 ) The # of Slice has been selected:10
+
+( 05/05/2022 22:26:36 ) The Drink has been selected
+
+( 05/05/2022 22:30:27 ) Program Started
+
+( 05/05/2022 22:30:27 ) The way the program deals with it has been chosen: InterFace
+
+( 05/05/2022 22:30:27 ) Select From Menu
+
+( 05/05/2022 22:30:27 ) The Drink has been selected
+
+( 05/05/2022 22:30:27 ) The type of pizza has been selected :Cipolla
+
+( 05/05/2022 22:30:27 ) The Size and Deep of Pizza has been chosen small,dish
+
+( 05/05/2022 22:30:27 ) The # of Slice has been selected 8
+
+( 05/05/2022 22:30:27 ) Exit
+
+( 05/05/2022 22:34:25 ) Program Started
+
+( 05/05/2022 22:34:25 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:34:25 ) New Order
+
+( 05/05/2022 22:34:25 ) The type of pizza has been selected :Vegetables
+
+( 05/05/2022 22:34:25 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 05/05/2022 22:34:25 ) The # of Slice has been selected:6
+
+( 05/05/2022 22:34:25 ) The Drink has been selected
+
+( 05/05/2022 22:34:46 ) Program Started
+
+( 05/05/2022 22:34:46 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:34:46 ) New Order
+
+( 05/05/2022 22:34:46 ) The type of pizza has been selected :Mamamia
+
+( 05/05/2022 22:34:46 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 05/05/2022 22:34:46 ) The # of Slice has been selected:10
+
+( 05/05/2022 22:35:15 ) Program Started
+
+( 05/05/2022 22:35:15 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:35:15 ) New Order
+
+( 05/05/2022 22:35:15 ) The type of pizza has been selected :Vegetables
+
+( 05/05/2022 22:35:15 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 05/05/2022 22:35:15 ) The # of Slice has been selected:10
+
+( 05/05/2022 22:35:15 ) The Drink has been selected
+
+( 05/05/2022 22:37:43 ) Program Started
+
+( 05/05/2022 22:37:43 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:37:43 ) New Order
+
+( 05/05/2022 22:37:43 ) The type of pizza has been selected :Mamamia
+
+( 05/05/2022 22:37:43 ) The Size and Deep of Pizza has been chosen large,pan
+
+( 05/05/2022 22:37:43 ) The # of Slice has been selected:6
+
+( 05/05/2022 22:37:43 ) New Order
+
+( 05/05/2022 22:37:43 ) The type of pizza has been selected :Cipolla
+
+( 05/05/2022 22:37:43 ) The Size and Deep of Pizza has been chosen large,pan
+
+( 05/05/2022 22:37:43 ) The # of Slice has been selected:6
+
+( 05/05/2022 22:39:43 ) Program Started
+
+( 05/05/2022 22:39:43 ) Program Canceled
+
+( 05/05/2022 22:39:57 ) Program Started
+
+( 05/05/2022 22:39:57 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:39:57 ) New Order
+
+( 05/05/2022 22:39:57 ) The type of pizza has been selected :Cipolla
+
+( 05/05/2022 22:39:57 ) The Size and Deep of Pizza has been chosen small,dish
+
+( 05/05/2022 22:39:57 ) The # of Slice has been selected:10
+
+( 05/05/2022 22:44:43 ) Program Started
+
+( 05/05/2022 22:44:43 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:44:43 ) New Order
+
+( 05/05/2022 22:44:43 ) The type of pizza has been selected :Vegetables
+
+( 05/05/2022 22:44:43 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 05/05/2022 22:44:43 ) The # of Slice has been selected:6
+
+( 05/05/2022 22:44:43 ) The Drink has been selected
+
+( 05/05/2022 22:45:24 ) Program Started
+
+( 05/05/2022 22:45:24 ) The way the program deals with it has been chosen: Consol
+
+( 05/05/2022 22:45:24 ) New Order
+
+( 05/05/2022 22:45:24 ) The type of pizza has been selected :Vegetables
+
+( 05/05/2022 22:45:24 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 05/05/2022 22:45:24 ) The # of Slice has been selected:6
+
+( 05/05/2022 22:45:24 ) The Drink has been selected
+
+( 05/05/2022 22:45:24 ) New Order
+
+( 06/05/2022 09:27:16 ) Program Started
+
+( 06/05/2022 09:27:16 ) The way the program deals with it has been chosen: Consol
+
+( 06/05/2022 09:27:16 ) New Order
+
+( 06/05/2022 09:27:16 ) The type of pizza has been selected :Mamamia
+
+( 06/05/2022 09:27:16 ) The Size and Deep of Pizza has been chosen medium,pan
+
+( 06/05/2022 09:27:16 ) The # of Slice has been selected:10
+
+( 06/05/2022 09:27:16 ) The Drink has been selected
+
+( 06/05/2022 09:27:48 ) Program Started
+
+( 06/05/2022 09:27:48 ) The way the program deals with it has been chosen: Consol
+
+( 06/05/2022 09:27:48 ) New Order
+
+( 06/05/2022 09:27:48 ) The type of pizza has been selected :Cipolla
+
+( 06/05/2022 09:27:48 ) The Size and Deep of Pizza has been chosen small,dish
+
+( 06/05/2022 09:27:48 ) The # of Slice has been selected:4
+
+( 06/05/2022 09:27:48 ) The Drink has been selected
+
+( 06/05/2022 09:28:25 ) Program Started
+
+( 06/05/2022 09:28:25 ) The way the program deals with it has been chosen: Consol
+
+( 06/05/2022 09:28:25 ) New Order
+
+( 06/05/2022 09:28:25 ) The type of pizza has been selected :Cipolla
+
+( 06/05/2022 09:28:25 ) The Size and Deep of Pizza has been chosen small,pan
+
+( 06/05/2022 09:28:25 ) The # of Slice has been selected:6
+
+( 06/05/2022 09:28:25 ) The Drink has been selected
+
+( 06/05/2022 09:50:25 ) The Drink has been selected
+
+( 06/05/2022 09:50:25 ) The type of pizza has been selected :Margharita
+
+( 06/05/2022 09:50:25 ) The Size and Deep of Pizza has been chosen small,dish
+
+( 06/05/2022 09:50:25 ) The # of Slice has been selected 8
+
+( 06/05/2022 09:50:25 ) New Order
+
+( 06/05/2022 09:51:20 ) Program Started
+
+( 06/05/2022 09:51:20 ) The way the program deals with it has been chosen: InterFace
+
+( 06/05/2022 09:52:49 ) Program Started
+
+( 06/05/2022 09:52:49 ) The way the program deals with it has been chosen: InterFace
+
+( 06/05/2022 09:52:49 ) Show The Menu 
+
+( 06/05/2022 09:52:49 ) Select From Menu
+
+( 06/05/2022 09:52:49 ) The Drink has been selected
+
+( 06/05/2022 09:52:49 ) The type of pizza has been selected :Marinara
+
+( 06/05/2022 09:52:49 ) The Size and Deep of Pizza has been chosen small,pan
+
+( 06/05/2022 09:52:49 ) The # of Slice has been selected 10
+
+( 06/05/2022 09:55:04 ) Program Started
+
+( 06/05/2022 09:55:04 ) The way the program deals with it has been chosen: InterFace
+
+( 06/05/2022 09:55:04 ) Select From Menu
+
+( 06/05/2022 09:55:04 ) The Drink has been selected
+
+( 06/05/2022 09:55:04 ) The type of pizza has been selected :Margharita
+
+( 06/05/2022 09:55:04 ) The Size and Deep of Pizza has been chosen large,dish
+
+( 06/05/2022 09:55:04 ) The # of Slice has been selected 10
+
+( 06/05/2022 09:55:04 ) New Order
+
+( 06/05/2022 09:55:04 ) The type of pizza has been selected :Cipolla
+
+( 06/05/2022 09:55:04 ) The Size and Deep of Pizza has been chosen small,dish
+
+( 06/05/2022 09:55:04 ) The # of Slice has been selected 6
+
+( 06/05/2022 09:55:04 ) New Order
+
+( 06/05/2022 09:55:04 ) The Drink has been selected
+
+( 06/05/2022 09:55:04 ) The type of pizza has been selected :Marinara
+
+( 06/05/2022 09:55:04 ) The Size and Deep of Pizza has been chosen large,dish
+
+( 06/05/2022 09:55:04 ) The # of Slice has been selected 4
+
+( 06/05/2022 09:55:04 ) New Order
+
+( 06/05/2022 09:55:04 ) The Drink has been selected
+
+( 06/05/2022 09:55:04 ) The type of pizza has been selected :Marinara
+
+( 06/05/2022 09:55:04 ) The Size and Deep of Pizza has been chosen large,dish
+
+( 06/05/2022 09:55:04 ) The # of Slice has been selected 8
+
+( 06/05/2022 09:55:04 ) New Order
+
+( 06/05/2022 09:55:04 ) The type of pizza has been selected :Chicken
+
+( 06/05/2022 09:55:04 ) The Size and Deep of Pizza has been chosen large,dish
+
+( 06/05/2022 09:55:04 ) The # of Slice has been selected 6
+
+( 14/05/2022 17:53:23 ) Select From Menu
+
+( 14/05/2022 17:53:23 ) The Drink has been selected
+
+( 14/05/2022 17:53:23 ) The type of pizza has been selected :Vegetables
+
+( 14/05/2022 17:53:23 ) The Size and Deep of Pizza has been chosen large,pan
+
+( 14/05/2022 17:53:23 ) The # of Slice has been selected 6
+
+( 14/05/2022 17:53:23 ) New Order
+
