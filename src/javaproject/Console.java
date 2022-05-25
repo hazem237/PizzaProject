@@ -360,7 +360,9 @@ public class Console {
                 System.out.println(Messages.PIZZA_READY);
                 clearOrder();
                 //Here Because of disconnect with My DataBase We Hide it , But its work when XAMPP installed
-                sentDataToMySql(pan.getPizzaType().getType(), pan.getDough().getSize(), pan.getDough().getDeep(), pan.getCalories());
+                //sentDataToMySql(pan.getPizzaType().getType(), pan.getDough().getSize(), pan.getDough().getDeep(), pan.getCalories());
+                
+                
                 write.PutDataInFile(pan.getPizzaType().getType(), pan.getDough().getSize(), pan.getDough().getDeep(), pan.getCalories());
 
                 break;
