@@ -659,13 +659,13 @@ public class Menu extends javax.swing.JFrame {
         } catch (HeadlessException | SoldOut ex) {
             JOptionPane.showMessageDialog(null, ex.getMessage());
         }
-        try
+       /* try
         {
             db.post(p1.getPizzaType().getType(),p1.getDough().getSize(),p1.getDough().getDeep(),p1.getCalories());
         }
         catch (Exception ex) {
             System.out.println(ex.getMessage());
-        }
+        }*/
         OrderBott.setEnabled(false);
         disE();
         homeBott.setEnabled(true);

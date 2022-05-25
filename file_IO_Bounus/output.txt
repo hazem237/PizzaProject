@@ -1,10 +1,10 @@
 New Order 
 
 The type : 
-Marinara
+Margharita
 The size : 
-small
+medium
 The Deep : 
 pan
 The Calories : 
-581.1
+1609.925
